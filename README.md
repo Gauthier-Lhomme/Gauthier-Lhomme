@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-I am a junior web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
+I am a junior web developer from France <img src="https://media.giphy.com/media/hutikECw6ULOsTHTue/giphy.gif" width="30">.
 
 <!--
 **Gauthier-Lhomme/Gauthier-Lhomme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
