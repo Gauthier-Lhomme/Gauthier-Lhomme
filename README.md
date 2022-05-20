@@ -22,6 +22,12 @@
 
 I am a junior web developer from France <img src="https://media.giphy.com/media/hutikECw6ULOsTHTue/giphy.gif" width="60">
 
+- :telescope: I am looking for a work-study job.
+
+- :seedling: I am curently learning Sass.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gauthier-lhomme/)
+
 <!--
 **Gauthier-Lhomme/Gauthier-Lhomme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
