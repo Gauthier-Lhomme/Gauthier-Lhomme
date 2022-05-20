@@ -26,7 +26,7 @@ I am a junior web developer from France <img src="https://media.giphy.com/media/
 
 - :seedling: I am curently learning Sass.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gauthier-lhomme/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gauthier-lhomme/)
 
 <!--
 **Gauthier-Lhomme/Gauthier-Lhomme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
