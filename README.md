@@ -20,6 +20,8 @@
 
 </br>
 
+### :man_technologist: About Me :
+
 I am a junior web developer from France <img src="https://media.giphy.com/media/hutikECw6ULOsTHTue/giphy.gif" width="60">
 
 - :telescope: I am looking for a work-study job.
