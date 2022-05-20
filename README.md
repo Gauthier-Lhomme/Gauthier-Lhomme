@@ -20,6 +20,8 @@
 
 </br>
 
+---
+
 ### :man_technologist: About Me :
 
 I am a junior web developer from France <img src="https://media.giphy.com/media/hutikECw6ULOsTHTue/giphy.gif" width="60">
@@ -29,6 +31,8 @@ I am a junior web developer from France <img src="https://media.giphy.com/media/
 - :seedling: I am curently learning Sass.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gauthier-lhomme/)
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
